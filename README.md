@@ -4,7 +4,7 @@
 <img src="https://img.freepik.com/free-photo/3d-rendering-cartoon-boy_23-2150797600.jpg?t=st=1700428695~exp=1700432295~hmac=c3fff2f1395ee6ffb6e8ba71bbabae79db4864e13181a27783ad8734dfc458ec&w=740" align="right"  
  z-index="1" width="300px"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0452&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0452" /> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kothapallihema&label=Profile%20views&color=0e75b6&style=flat" alt="kothapallihema" /> </p><br>
 <h1 align="left" style="font:bold">Hi 👋 This is Hema Venkata Durga Kothapalli!! </h1><br>
 <h3 align="center">A passionate Java Developer from India</h3>
 <h3 align="center"> I'm a <b>Devops Aspirant</b> </h3><br><br>
@@ -54,13 +54,13 @@
 <p><a href=""><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya0452&show_icons=true&locale=en&layout=compact" alt="aditya0452" /></a></p>  
 <br>
 <br><br><br><br><br><br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya0452&show_icons=true&locale=en" alt="aditya0452" /><br><br>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kothapallihema&show_icons=true&locale=en" alt="kothapallihema" /><br><br>
  
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0452&" alt="aditya0452" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kothapallihema&" alt="kothapallihema" /></p>
 
 
 <!--
-**Aditya0452/Aditya0452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kothapallihema/kothapallihema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
