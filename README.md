@@ -1,4 +1,4 @@
-<img src=""  title="Kothapalli Hema" width="100%" height="260px">
+<img src="https://github.com/user-attachments/assets/bda3aeba-dc6a-4c1d-a538-3da24a37f35f" title="Kothapalli Hema" width="100%" height="260px">
 
 ## About me
 <img  src="https://github.com/user-attachments/assets/8fb7fa2c-fa5c-4f9e-9f02-f29ddad26217" align="right"  z-index="1" width="300px"> 
