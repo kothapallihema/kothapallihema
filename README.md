@@ -1,9 +1,7 @@
 <img src=""  title="Kothapalli Hema" width="100%" height="260px">
 
 ## About me
-<img src="<img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/8fb7fa2c-fa5c-4f9e-9f02-f29ddad26217" />
-" align="right"  
- z-index="1" width="300px"> 
+<img  src="https://github.com/user-attachments/assets/8fb7fa2c-fa5c-4f9e-9f02-f29ddad26217" align="right"  z-index="1" width="300px"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kothapallihema&label=Profile%20views&color=0e75b6&style=flat" alt="kothapallihema" /> </p><br>
 <h1 align="left" style="font:bold">Hi 👋 This is Hema Venkata Durga Kothapalli!! </h1><br>
