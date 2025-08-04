@@ -1,7 +1,7 @@
-<img src="https://www.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_382674875.htm#fromView=keyword&page=1&position=14&uuid=e189d48b-fd78-4017-be4c-284ca31ce14a&query=Cartoon+Girl+Coding+Design"  title="Kothapalli Hema" width="100%" height="260px">
+<img src=""  title="Kothapalli Hema" width="100%" height="260px">
 
 ## About me
-<img src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=image_search_similar&page=1&position=0&uuid=67d09767-6004-4758-ba5f-b151c73f2057&query=software+developer+girl" align="right"  
+<img src="[https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=image_search_similar&page=1&position=0&uuid=67d09767-6004-4758-ba5f-b151c73f2057&query=software+developer+girl](https://img.freepik.com/premium-photo/young-software-developer-ai-generated_1059430-18874.jpg)" align="right"  
  z-index="1" width="300px"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kothapallihema&label=Profile%20views&color=0e75b6&style=flat" alt="kothapallihema" /> </p><br>
