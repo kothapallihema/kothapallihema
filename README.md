@@ -1,7 +1,7 @@
 <img src="https://www.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_382674875.htm#fromView=keyword&page=1&position=14&uuid=e189d48b-fd78-4017-be4c-284ca31ce14a&query=Cartoon+Girl+Coding+Design"  title="Kothapalli Hema" width="100%" height="260px">
 
 ## About me
-<img src="https://img.freepik.com/free-photo/3d-rendering-cartoon-boy_23-2150797600.jpg?t=st=1700428695~exp=1700432295~hmac=c3fff2f1395ee6ffb6e8ba71bbabae79db4864e13181a27783ad8734dfc458ec&w=740" align="right"  
+<img src="https://www.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_382674875.htm#fromView=keyword&page=1&position=14&uuid=e189d48b-fd78-4017-be4c-284ca31ce14a&query=Cartoon+Girl+Coding+Design" align="right"  
  z-index="1" width="300px"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kothapallihema&label=Profile%20views&color=0e75b6&style=flat" alt="kothapallihema" /> </p><br>
